@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tarmalot.
+
+I'm currently learning react.js, node.js, express.js (generally full-stack)
